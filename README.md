@@ -1,6 +1,5 @@
 My first readme
 
-
 Coding is not easy especially working with ALX
 
 Marathon is the word that can be used to describe ALX Software Engineering
