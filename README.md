@@ -3,6 +3,7 @@ My first readme
 Coding is not easy especially working with ALX
 
 **Marathon is the word that can be used to describe ALX Software Engineering**
+
 -There are a lot of projects given during the week
 
 -You need to do a alot of research to be able to complete the projects which can be exhausting and frustrating at times
