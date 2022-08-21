@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-I have grit for alx
-=======
 My first readme
 
 Coding is not easy especially working with ALX
