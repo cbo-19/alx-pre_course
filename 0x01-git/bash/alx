@@ -3,11 +3,5 @@
 echo "ALX School is so cool!"
 
 "ALX School is so cool!"
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> 13cc96fd74ac622f82396336f16770ea45f13613
-=======
->>>>>>> ec8e4cb670c3180c778b12765b2c9739df051cf6
 "Cool, all my changes will be now part of the main branch, ready to be deployed"
